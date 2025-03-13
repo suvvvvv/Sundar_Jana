@@ -1,5 +1,4 @@
 # Sundar_Jana
-# Shivani_Kedar
 Name: Sundar Jana
 Email: Sundarjana15@gmail.com
 College: Ajeenkya D Y Patil University
